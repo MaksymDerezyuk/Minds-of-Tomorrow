@@ -177,9 +177,6 @@ body {
         para que el resto del contenido de desplaze hacia abajo*/
         width: 100%;
     }
-    .fila1 {
-        flex-direction: row;
-    }
     img {
         /*Aqui estilizamos las imagenes para que se visualizen de manera correcta y ordenada*/
         margin-left: 5%;
